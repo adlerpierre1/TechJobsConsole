@@ -1,0 +1,10 @@
+C:\Users\Adler\Documents\C_SharpApps\Assignment 1\src\TechJobsConsole\bin\Debug\netcoreapp1.0\TechJobsConsole.deps.json
+C:\Users\Adler\Documents\C_SharpApps\Assignment 1\src\TechJobsConsole\bin\Debug\netcoreapp1.0\TechJobsConsole.runtimeconfig.json
+C:\Users\Adler\Documents\C_SharpApps\Assignment 1\src\TechJobsConsole\bin\Debug\netcoreapp1.0\TechJobsConsole.runtimeconfig.dev.json
+C:\Users\Adler\Documents\C_SharpApps\Assignment 1\src\TechJobsConsole\bin\Debug\netcoreapp1.0\TechJobsConsole.dll
+C:\Users\Adler\Documents\C_SharpApps\Assignment 1\src\TechJobsConsole\bin\Debug\netcoreapp1.0\TechJobsConsole.pdb
+C:\Users\Adler\Documents\C_SharpApps\Assignment 1\src\TechJobsConsole\obj\Debug\netcoreapp1.0\TechJobsConsole.csprojResolveAssemblyReference.cache
+C:\Users\Adler\Documents\C_SharpApps\Assignment 1\src\TechJobsConsole\obj\Debug\netcoreapp1.0\TechJobsConsole.csproj.CoreCompileInputs.cache
+C:\Users\Adler\Documents\C_SharpApps\Assignment 1\src\TechJobsConsole\obj\Debug\netcoreapp1.0\TechJobsConsole.AssemblyInfo.cs
+C:\Users\Adler\Documents\C_SharpApps\Assignment 1\src\TechJobsConsole\obj\Debug\netcoreapp1.0\TechJobsConsole.dll
+C:\Users\Adler\Documents\C_SharpApps\Assignment 1\src\TechJobsConsole\obj\Debug\netcoreapp1.0\TechJobsConsole.pdb
